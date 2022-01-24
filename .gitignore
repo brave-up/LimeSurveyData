@@ -113,7 +113,6 @@ enabletests
 /tests/data/tmp/**
 
 ## Ignore files and dependencies for testing
-composer.lock
 third_party/bin/phpcbf
 third_party/bin/phpcs
 third_party/squizlabs/
